@@ -22,11 +22,12 @@ Here are some of my public repositories:
 6. [editorconfig-boilerplate](https://github.com/SandroMiguel/editorconfig-boilerplate) - The inspirational .editorconfig boilerplate.
 7. [eslint-config-cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for my projects.
 8. [cecilia-classless](https://github.com/SandroMiguel/cecilia-classless) - Classless stylesheet for HTML.
-9. [cecilia-css](https://github.com/SandroMiguel/cecilia-css) - A set of tools for quick development of web interfaces.
-10. [standard-commit](https://github.com/SandroMiguel/standard-commit) - Guidelines to standardize commit messages.
-11. [damp](https://github.com/SandroMiguel/damp) - Docker setup with Apache, MySQL, and PHP plus phpMyAdmin.
-12. [readme-template](https://github.com/SandroMiguel/readme-template) - README.md template for my projects.
-13. [verum-php](https://github.com/SandroMiguel/verum-php) - Server-Side Validation Library for PHP.
+9. [cecilia-css](https://github.com/SandroMiguel/cecilia-css) - A set of tools for the quick development of web interfaces.
+10. [php-type](https://github.com/SandroMiguel/php-type) - Ensure data integrity and suppress linter alerts.
+11. [standard-commit](https://github.com/SandroMiguel/standard-commit) - Guidelines to standardize commit messages.
+12. [damp](https://github.com/SandroMiguel/damp) - Docker setup with Apache, MySQL, and PHP plus phpMyAdmin.
+13. [readme-template](https://github.com/SandroMiguel/readme-template) - README.md template for my projects.
+14. [verum-php](https://github.com/SandroMiguel/verum-php) - Server-Side Validation Library for PHP.
 
 
 Thanks for visiting my profile! 😄
